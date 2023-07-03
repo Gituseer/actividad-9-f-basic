@@ -1,0 +1,39 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    margin: 50px;
+}
+
+
+#brand{
+    text-decoration: underline;
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#brand:hover {
+    background-color: fuchsia;
+    }
+
+#as{
+    text-decoration: underline;
+    color: fuchsia;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+#as:hover {
+    background-color: gold;
+    }
+

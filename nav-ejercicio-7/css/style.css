@@ -1,0 +1,51 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+header{
+    margin: 0 auto;
+    width: 20%;
+    clear: both;
+    display: table;
+    background-color: aqua;
+
+}
+
+.menu {
+    width: 600px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+nav{
+    float: inline-start;
+    background-color: aqua;
+    justify-content: center;
+
+}
+
+nav ul li{
+    list-style: none;
+    margin-left: 25px;
+    float: left;
+    padding: 25px 0;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 12px;
+}
+
+nav ul li a:hover{
+    background-color: rgb(0, 2, 128);    
+}
+
+
